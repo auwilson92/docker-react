@@ -10,8 +10,8 @@ function App() {
           Top Secret
         </p>
         <a
-          className="Enter"
-          href="https://geekprank.com/matrix-code-rain/"
+          className="App-link"
+          href="https://reactjs.org"
           target="_blank"
           rel="noopener noreferrer"
         >
