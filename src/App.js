@@ -7,11 +7,11 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Sup Girlllll
+          Top Secret
         </p>
         <a
-          className="App-link"
-          href="https://reactjs.org"
+          className="Enter"
+          href="https://geekprank.com/matrix-code-rain/"
           target="_blank"
           rel="noopener noreferrer"
         >
